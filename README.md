@@ -1,1 +1,0 @@
-# Sentrifugo-vulnerable-docker
