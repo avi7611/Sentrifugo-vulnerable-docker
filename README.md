@@ -28,4 +28,6 @@ docker run -p 8081:80 <container_name> <image_name>
 
 Please refer Websetup Setup guide for more info.
 
+https://github.com/avi7611/Sentrifugo-vulnerable-docker/blob/main/Webserver%20setup%20guide.pdf
+
 
