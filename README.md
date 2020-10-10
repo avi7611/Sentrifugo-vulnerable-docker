@@ -24,6 +24,9 @@ GUIDE to setup Docker:-
 Note:- Alernatively if you want to mannually build docker the commands are 
 
 `docker build -t <image_name> .`
+
+To run docker:- 
+
 `docker run -p 8081:80 <container_name> <image_name>`
 
 The webserver will start on port 8081 in localhost.
