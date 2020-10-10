@@ -1,0 +1,9 @@
+INSTALL.txt
+LICENSE.txt
+README.txt
+demos/
+extras/documentation
+/*.bak
+logs/xdebug.log
+logs/application.log
+.DS_Store

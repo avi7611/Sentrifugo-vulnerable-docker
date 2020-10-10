@@ -1,0 +1,4 @@
+CREATE DATABASE hrm CHARACTER SET utf8 COLLATE utf8_general_ci;
+CREATE USER 'hrm'@'localhost' IDENTIFIED BY '654321Ab';
+GRANT ALL PRIVILEGES ON hrm.* TO 'hrm'@'localhost';
+FLUSH PRIVILEGES;
