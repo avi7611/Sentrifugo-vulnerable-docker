@@ -13,9 +13,8 @@ Pre-requisites:-
 
 GUIDE to setup Docker:-
 
-1. Extract the avi.zip file in a folder.
-2. Change the current directory to extracted folder.
-3. Open terminal in the Current directoy and run the following command to build and run docker image.
+1. Change the current directory to cloned folder.
+2. Open terminal in the Current directoy and run the following command to build and run docker image.
 	`bash start.sh`
 
 
